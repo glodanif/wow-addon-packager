@@ -11,7 +11,7 @@ Batch script for compression an addon into a zip archive ignoring specific files
 This script relies on 7zip application for zipping files. You have to have installed 7zip on your PC, expected location: `C:\Program Files\7-Zip\7z.exe`
 
 #### What you will get
-The script will create an _output_ folder in a root of your addon folder and compress addon's files into a zip archive with following name '`_your_addon_directory version.zip_`' (ex. `CombatIndicator v1.2.zip`).
+The script will create an _output_ folder in a root of your addon folder and compress addon's files into a zip archive with following name '_your_addon_directory version.zip_' (ex. `CombatIndicator v1.2.zip`).
 The version will be automatically fetched from a `.toc` file.
 
 #### Ignore
