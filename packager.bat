@@ -39,7 +39,7 @@ for %%a in (*.*) do (
 )
 endlocal
 
-@rem zipping using 7zip
+@rem zipping using 7-Zip
 cd output
 set ZIP_PATH="C:\Program Files\7-Zip\7z.exe"
 if not exist %ZIP_PATH% (
