@@ -1,5 +1,5 @@
 # wow-addon-packager
-Batch script for compression an addon into a zip archive ignoring specific files
+Batch script for compression an addon into a zip archive ignoring specific files (Windows only, obviously...)
 
 ## Overview
 
